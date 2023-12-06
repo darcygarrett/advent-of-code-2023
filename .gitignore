@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.env/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output files
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code configuration
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# macOS metadata
+.DS_Store
+
+# Python egg metadata
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Pytest
+__pycache__/
+pytest_cache/
+
+# Pyinstaller
+dist/
+build/
+*.spec
+
+# Pipenv
+Pipfile.lock
+
+# IDE specific files
+.
