@@ -1,0 +1,4 @@
+# TODO List
+- [ ] cleanup day 1 comments
+- [ ] make day 1 input more generic using a txt file
+- [ ] add test for day 2, problem 2
